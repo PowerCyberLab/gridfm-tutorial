@@ -10,10 +10,10 @@ Run the setup notebook first, then work through 01-03 in order.
 
 | Notebook | Colab |
 |-|-|
-| `00-setup.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cuihantao/gridfm-tutorial/blob/main/00-setup.ipynb) |
-| `01-pflow-tds-intro.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cuihantao/gridfm-tutorial/blob/main/01-pflow-tds-intro.ipynb) |
-| `02-data-generation.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cuihantao/gridfm-tutorial/blob/main/02-data-generation.ipynb) |
-| `03-physics-informed-ml.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cuihantao/gridfm-tutorial/blob/main/03-physics-informed-ml.ipynb) |
+| `00-setup.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PowerCyberLab/gridfm-tutorial/blob/main/00-setup.ipynb) |
+| `01-pflow-tds-intro.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PowerCyberLab/gridfm-tutorial/blob/main/01-pflow-tds-intro.ipynb) |
+| `02-data-generation.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PowerCyberLab/gridfm-tutorial/blob/main/02-data-generation.ipynb) |
+| `03-physics-informed-ml.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PowerCyberLab/gridfm-tutorial/blob/main/03-physics-informed-ml.ipynb) |
 
 ## Links
 
