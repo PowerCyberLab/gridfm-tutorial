@@ -7,10 +7,9 @@ Hands-on tutorial using [ANDES](https://github.com/cuihantao/andes), an open-sou
 ## Getting Started
 
 Each notebook is self-contained and can be opened independently on
-Google Colab. The setup cell at the top of every notebook clones this
-repository and installs dependencies automatically. An optional
-environment-check notebook (`00-setup.ipynb`) is provided for
-pre-workshop verification.
+Google Colab. The setup cell at the top of every notebook installs
+the required dependencies automatically. An optional environment-check
+notebook (`00-setup.ipynb`) is provided for pre-workshop verification.
 
 | Notebook | Colab |
 |-|-|
