@@ -1,6 +1,6 @@
 # Grid Foundation Model Tutorial
 
-**Hantao Cui** | 5th Workshop on Foundation Models for the Electric Grid | Harvard SEAS, March 17, 2026
+**[Hantao Cui](https://cui.eecps.com)** | 5th Workshop on Foundation Models for the Electric Grid | Harvard SEAS, March 17, 2026
 
 Hands-on tutorial using [ANDES](https://github.com/cuihantao/andes), an open-source power system simulation tool, to generate physics-rich data and train physics-informed neural networks.
 
