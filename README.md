@@ -6,11 +6,15 @@ Hands-on tutorial using [ANDES](https://github.com/cuihantao/andes), an open-sou
 
 ## Getting Started
 
-Run the setup notebook first, then work through 01-03 in order.
+Each notebook is self-contained and can be opened independently on
+Google Colab. The setup cell at the top of every notebook clones this
+repository and installs dependencies automatically. An optional
+environment-check notebook (`00-setup.ipynb`) is provided for
+pre-workshop verification.
 
 | Notebook | Colab |
 |-|-|
-| `00-setup.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PowerCyberLab/gridfm-tutorial/blob/main/00-setup.ipynb) |
+| `00-setup.ipynb` (optional) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PowerCyberLab/gridfm-tutorial/blob/main/00-setup.ipynb) |
 | `01-pflow-tds-intro.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PowerCyberLab/gridfm-tutorial/blob/main/01-pflow-tds-intro.ipynb) |
 | `02-data-generation.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PowerCyberLab/gridfm-tutorial/blob/main/02-data-generation.ipynb) |
 | `03-physics-informed-ml.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PowerCyberLab/gridfm-tutorial/blob/main/03-physics-informed-ml.ipynb) |
